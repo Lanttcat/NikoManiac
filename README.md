@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Lantt.
+
+- 🔭 I’m currently working on Front End.
+- 🌱 I’m currently learning Rust.
+
